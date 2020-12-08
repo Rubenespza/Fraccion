@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe.config
+C:\Users\Usuario\source\repos\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe
+C:\Users\Usuario\source\repos\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.pdb
+C:\Users\Usuario\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.Form1.resources
+C:\Users\Usuario\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.exe
+C:\Users\Usuario\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.pdb
